@@ -1,0 +1,178 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+section{
+	background-color:#d9d7d7;
+	margin:auto;
+	text-align:center;
+	padding:20px 10px;
+	line-height:2;
+	width:30%;
+	border-radius:10px;
+	text-decoration-line:none;
+
+}
+.container{
+	color:white;
+
+}
+.icon{
+	margin-right:20px;
+}
+img{
+	border-radius:50%;
+	border:4px solid black;
+	width:30%;
+
+}
+.col{
+	padding:20px;
+	line-height:2.5;
+	text-align:left;
+	margin-left:50px;
+	
+}
+
+a.para:link{
+	color:#3ed8fa;
+}
+a.para:visited{
+	color:white;
+	font-size:18px;
+}
+a.para:hover{
+	color:#3ed8fa;
+}
+a.para:active{
+	color:black;
+
+}
+a.para1:link{
+	color:#3ed8fa;
+}
+a.para1:visited{
+	color:white;
+	font-size:18px;
+}
+a.para1:hover{
+	color:#3ed8fa;
+}
+a.para1:active{
+	color:black;
+}
+a.para2:link{
+	color:#3ed8fa;
+}
+a.para2:visited{
+	color:white;
+	font-size:18px;
+}
+a.para2:hover{
+	color:#3ed8fa;
+}
+a.para2:active{
+	color:black;
+}
+a.para3:link{
+	color:#3ed8fa;
+}
+a.para3:visited{
+	color:white;
+	font-size:18px;
+}
+a.para3:hover{
+	color:#3ed8fa;
+}
+a.para3:active{
+	color:black;
+}
+a.para4:link{
+	color:#3ed8fa;
+}
+a.para4:visited{
+	color:white;
+	font-size:18px;
+}
+a.para4:hover{
+	color:#3ed8fa;
+}
+a.para4:active{
+	color:black;
+}
+a.para5:link{
+	color:#3ed8fa;
+}
+a.para5:visited{
+	color:black;
+	font-size:18px;
+}
+a.para5:hover{
+	color:#3ed8fa;
+}
+a.para5:active{
+	color:white;
+}
+a.para6:link{
+	color:#3ed8fa;
+}
+a.para6:visited{
+	color:black;
+	font-size:18px;
+}
+a.para6:hover{
+	color:#3ed8fa;
+}
+a.para6:active{
+	color:white;
+}
+a.para7:link{
+	color:#3ed8fa;
+}
+a.para7:visited{
+	color:black;
+	font-size:18px;
+}
+a.para7:hover{
+	color:#3ed8fa;
+}
+a.para7:active{
+	color:white;
+}
+a.para8:link{
+	color:#3ed8fa;
+}
+a.para8:visited{
+	color:black;
+	font-size:18px;
+}
+a.para8:hover{
+	color:#3ed8fa;
+}
+a.para8:active{
+	color:white;
+}
+a.para9:link{
+	color:#3ed8fa;
+}
+a.para9:visited{
+	color:black;
+	font-size:18px;
+}
+a.para9:hover{
+	color:#3ed8fa;
+}
+a.para9:active{
+	color:white;
+}
+.para5,.para6,.para7,.para8,.para9{
+	text-decoration-line:none;
+}
+
+
+
+
+
+	
+	
